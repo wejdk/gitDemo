@@ -12,5 +12,6 @@ public class GitDemo {
         System.out.println("hello git");
 
         int i=0;
+        i+=10;
     }
 }
